@@ -78,15 +78,21 @@ For a project I had to exchange data between my computer and a MicroPython micro
 
 For this reason I wrote a Python and Node.js program myself, which exchanges data with a Raspberry Pi Pico and lights up the microcontroller's built-in LED.
 
-Thus, data can be exchanged between on the PC with Python or Node.js and on the microcontroller with MicroPython or CircuitPython:
-<ol>
+Thus, data can be exchanged between on the PC with Python or Node.js and on the microcontroller with MicroPython or CircuitPython.
+
+
+MicroPython:
+<ul>
   <li> Node.js <----> MicroPython </li>
   <li> Python  <----> MicroPython </li>
-</ol>
-<ol>
+</ul>
+
+
+CircuitPython:
+<ul>
   <li> Node.js <----> CircuitPython </li>
   <li> Python  <----> CircuitPython </li>
-</ol>
+</ul>
 
 <!-- ### Built With
 
