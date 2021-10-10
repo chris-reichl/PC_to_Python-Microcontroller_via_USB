@@ -25,7 +25,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center">PC to MicroPython / CiruitPython via USB</h3>
+  <h3 align="center">PC to MicroPython / CircuitPython via USB</h3>
 
   <!-- <p align="center">
     With these sample codes you can receive and send data between a computer and a MicroPython microcontroller via USB connection.
@@ -112,15 +112,15 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- Raspberry Pico -->
 ## Prepear the Microcontroller
 
-Load the script from the MicroPython folder to a microcontroller running MicroPython or if you want to use CircuitPython then load the script from the CircuitPython folder on a microcontroller with CiruitPython.
+Load the script from the MicroPython folder to a microcontroller running MicroPython or if you want to use CircuitPython then load the script from the CircuitPython folder on a microcontroller with CircuitPython.
 
-I have developed the script with a Raspberry Pi Pico. But it is also compatible for other MicroPython / CiruitPython compatible controllers. You may have to change the LED pin number.
+I have developed the script with a Raspberry Pi Pico. But it is also compatible for other MicroPython / CircuitPython compatible controllers. You may have to change the LED pin number.
 
 
 <!-- NODE.JS -->
-## Node.js <----> MicroPython/CiruitPython
+## Node.js <----> MicroPython/CircuitPython
 
-Sending and receiving data between a Node.js application and a MicroPython or CiruitPython microcontroller.
+Sending and receiving data between a Node.js application and a MicroPython or CircuitPython microcontroller.
 
 <!-- ### Prerequisites
 
@@ -149,15 +149,15 @@ This is an example of how to list things you need to use the software and how to
    node main.js
    ```
 
-Now the LED of the microcontroller should light up for 2 seconds and you should see an output in the terminal. Congratulations, you have successfully sent commands via USB to the MicroPython/CiruitPython microcontroller!
+Now the LED of the microcontroller should light up for 2 seconds and you should see an output in the terminal. Congratulations, you have successfully sent commands via USB to the MicroPython/CircuitPython microcontroller!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- PYTHON -->
-## Python <----> MicroPython/CiruitPython
+## Python <----> MicroPython/CircuitPython
 
-Sending and receiving data between a Python application and a MicroPython or CiruitPython microcontroller
+Sending and receiving data between a Python application and a MicroPython or CircuitPython microcontroller
 
 <!-- ### Prerequisites
 
@@ -186,7 +186,7 @@ This is an example of how to list things you need to use the software and how to
    python main.py
    ```
 
-Now the LED of the microcontroller should light up for 2 seconds and you should see an output in the terminal. Congratulations, you have successfully sent commands via USB to the MicroPython/CiruitPython microcontroller!
+Now the LED of the microcontroller should light up for 2 seconds and you should see an output in the terminal. Congratulations, you have successfully sent commands via USB to the MicroPython/CircuitPython microcontroller!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
